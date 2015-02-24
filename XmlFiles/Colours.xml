@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Colours>
+	<Colour id="0">	
+		red
+	</Colour>
+	<Colour id="1">
+		blue
+	</Colour>
+	<Colour id="2">
+		yellow
+	</Colour>
+	<Colour id="3">
+		black
+	</Colour>
+	<Colour id="4">
+		NoColour;
+	</Colour>
+</Colours>

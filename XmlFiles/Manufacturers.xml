@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf=8"?>
+<manufacturers>
+	<manufacturer id="1">
+		<entity>Lens</entity>
+		<name>Bloggs & Son</name>
+	</manufacturer>
+	<manufacturer id="2">
+		<entity>Lens</entity>
+		<name>Tony & Co</name>
+	</manufacturer>
+	<manufacturer id="3">
+		<entity>Lens</entity>
+		<name>Generic</name>
+	</manufacturer>
+		<manufacturer id="4">
+		<entity>Frame</entity>
+		<name>Bloggs & Son</name>
+	</manufacturer>
+	<manufacturer id="5">
+		<entity>Frame</entity>
+		<name>Tony & Co</name>
+	</manufacturer>
+	<manufacturer id="6">
+		<entity>Frame</entity>
+		<name>Generic</name>
+	</manufacturer>
+</manufacturers>

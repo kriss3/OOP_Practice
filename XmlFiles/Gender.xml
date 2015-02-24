@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Genders>
+	<Gender id="1">
+		Man
+	</Gender>
+	<Gender id="2">
+		Woman
+	</Gender>
+	<Gender id="3">
+		Children
+	</Gender>
+</Genders>
